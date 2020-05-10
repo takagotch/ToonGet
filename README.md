@@ -1,7 +1,6 @@
 ### ToonGet
 ---
-https://toon.com/
-
+http://www.toonget.net/
 
 ```
 ```
